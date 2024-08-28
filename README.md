@@ -1,33 +1,46 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1200&lines=HELLO,+MY+NAME+is+Matheus+Nunes;I'm+23+years+old;I+am+from+Jundiaí,+SP;I+study+analysis+and+systems+development+at+Mackenzie;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<h1 style="font-family: 'Courier New', Courier, monospace; text-align: center;">Hi, I'm Matheus Nunes</h1>
+<p style="text-align: center; font-family: 'Courier New', Courier, monospace;">From Louveira - SP, Brazil 🇧🇷</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MthNunes&show_icons=true&count_private=true&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Nunes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthNunes&layout=compact&hide_border=true&title_color=FFA500&text_color=FFA500&bg_color=0d1117" />
-</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MthNunes&bg_color=000000&color=FF4500&line=FFA500&point=FFA500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=FFA500)&nbsp;
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=FFA500&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=FFA500&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=FFA500)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=FFA500)&nbsp;
+## About Me
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthNunes}/count.svg" /></p> 
-<br></div>
+I am deeply committed to my transition to a career in programming. I'm currently studying Systems Analysis and Development at Mackenzie University and, so far, my main focus has been JavaScript, HTML, CSS and React. I've already acquired a good foundation in programming logic and, although I'm still at the beginning of my journey, I'm extremely excited to dive deeper, advance and explore new opportunities in the field.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=footer"/>
+## Learning Path
+
+- **Currently Learning:** JavaScript, HTML, CSS, React.
+- **Education:** Degree in Systems Analysis and Development in progress
+- **Next Steps:** Eager to start working on real-world projects to apply my skills and continue growing.
+
+
+## In my spare time
+
+- **Sports Enthusiast:** I enjoy swimming, running and weight training
+- **Tech Aficionado:** I love reading about tech trends to stay updated with the latest advancements.
+- **Passionate about Real Stories: I love watching documentaries, series and movies based on real events, especially those involving technology, such as “Connected”, “Jobs”, “Tetris” and “The Imitation Game”.
+
+
+## Career Goals
+
+I’m looking for an opportunity in programming where I can experience the day-to-day life of a developer and further enhance my technical skills. I'm excited to contribute to a team and grow alongside experienced professionals.
+
+
+## Get in Touch
+
+- **Email:** [mthnns@outlook.com](mailto:mthnns@outlook.com)
+
+
+## Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React Badge"/>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MthNunes&layout=compact)
+
+<p style="font-family: 'Courier New', Courier, monospace; font-style: italic; text-align: center;">
+  "Code is the poetry that brings ideas to life, transforming logic into reality and the impossible into innovation."
+</p>
