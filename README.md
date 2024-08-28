@@ -1,5 +1,4 @@
-<h1 style="font-family: 'Courier New', Courier, monospace; text-align: center;">Olá, sou Matheus Nunes</h1>
-<p style="text-align: center; font-family: 'Courier New', Courier, monospace;">De Louveira - SP, Brasil 🇧🇷</p>
+<h1 style="font-family: 'Courier New', Courier, monospace; text-align: center;">Olá, sou o Matheus! :D</h1>
 
 ## Sobre Mim
 
@@ -15,7 +14,7 @@ Estou profundamente comprometido com minha transição para uma carreira em prog
 
 - **Entusiasta de Esportes:** Gosto de nadar, correr e fazer musculação.
 - **Aficionado por Tecnologia:** Adoro ler sobre tendências tecnológicas para me manter atualizado com os últimos avanços.
-- **Apaixonado por Histórias Reais:** Adoro assistir documentários, séries e filmes baseados em eventos reais, especialmente aqueles envolvendo tecnologia, como “Conectados”, “Jobs”, “Tetris” e “O Jogo da Imitação”.
+- **Apaixonado por Histórias Reais:** Adoro assistir documentários, séries e filmes baseados em eventos reais, especialmente aqueles envolvendo tecnologia, como “Connected”, “Jobs”, “Tetris” e “The Imitation Game”.
 
 ## Objetivos de Carreira
 
