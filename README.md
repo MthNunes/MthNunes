@@ -5,7 +5,7 @@
 <h1 align="center">MATHEUS NUNES</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=18&duration=4000&pause=1200&color=7EB6D6&center=true&vCenter=true&width=720&height=36&lines=Analista+de+Business+Intelligence+Pleno;Demanda+%C2%B7+Metas+%C2%B7+Forecast+%C2%B7+Intelig%C3%AAncia+de+vendas" alt="headline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=18&duration=4000&pause=1200&color=7EB6D6&center=true&vCenter=true&width=760&height=36&lines=Analista+de+Business+Intelligence+Pleno;Demanda+vs+or%C3%A7amento+%C2%B7+Metas+%C2%B7+Forecast" alt="headline"/>
 </p>
 
 <p align="center">
@@ -24,11 +24,13 @@
 
 ---
 
-Integro o planejamento de demanda à execução comercial: projeções com método estatístico, metas desdobradas no ciclo e uma visão única para a gestão e a equipe.
+Integro o planejamento de demanda à execução comercial. A demanda é projetada com métodos estatísticos, **baseada e comparada com o orçamento (budget)**. O gap fica visível. As metas desdobram essa demanda no ciclo. Gestão e equipe olham a mesma visão.
 
 ```mermaid
 flowchart LR
   H[Histórico] --> D[Demanda]
+  B[Orçamento / budget] --> D
+  D --> G[Gap]
   D --> M[Meta]
   D --> S[Supply / PCP / S&OP]
   M --> P[Painel]
