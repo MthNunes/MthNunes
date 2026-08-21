@@ -24,7 +24,7 @@
 
 ---
 
-Integro o planejamento de demanda à execução comercial. A demanda é projetada com métodos estatísticos, **baseada e comparada com o orçamento (budget)**. O gap fica visível. As metas desdobram essa demanda no ciclo. Gestão e equipe olham a mesma visão.
+Integro o planejamento de demanda à execução comercial. A demanda é projetada com métodos estatísticos sobre o histórico, baseada e comparada com o orçamento (budget). Essa demanda vira meta, distribuída em cotas por níveis de cálculo no ciclo e disponível nas visões de gestão e de equipe, para acompanhamento, forecast e plano de ação.
 
 ```mermaid
 flowchart LR
