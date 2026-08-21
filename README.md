@@ -30,7 +30,6 @@ Integro o planejamento de demanda à execução comercial. A demanda é projetad
 flowchart LR
   H[Histórico] --> D[Demanda]
   B[Orçamento / budget] --> D
-  D --> G[Gap]
   D --> M[Meta]
   D --> S[Supply / PCP / S&OP]
   M --> P[Painel]
