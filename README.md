@@ -58,12 +58,6 @@ Graduação em **Análise e Desenvolvimento de Sistemas** · Universidade Presbi
 
 ---
 
-## Fora do trabalho
-
-Natação, corrida e musculação. Documentários e filmes baseados em fatos reais, em especial os de tecnologia.
-
----
-
 ## Contato
 
 - **E-mail:** [mthnns@outlook.com](mailto:mthnns@outlook.com)
