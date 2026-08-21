@@ -1,32 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:238636,50:58a6ff,100:1f6feb" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d3d5c,50:7eb6d6,100:1a6fa3" width="100%" alt=""/>
 </div>
 
-<h1 align="center">MthNunes</h1>
+<h1 align="center">MATHEUS NUNES</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=36&lines=BI+pleno+que+entrega+produto%2C+n%C3%A3o+s%C3%B3+dashboard;Next.js+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Python" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=18&duration=4000&pause=1200&color=7EB6D6&center=true&vCenter=true&width=720&height=36&lines=Analista+de+Business+Intelligence+Pleno;Demanda+%C2%B7+Metas+%C2%B7+Forecast+%C2%B7+Intelig%C3%AAncia+de+vendas" alt="headline"/>
 </p>
 
 <p align="center">
-  <a href="https://portfoliomatheusnunes.vercel.app/">
-    <img src="https://img.shields.io/badge/live-portfoliomatheusnunes.vercel.app-58a6ff?style=for-the-badge&labelColor=161b22&logo=vercel&logoColor=white" alt="live"/>
-  </a>
-  <a href="https://github.com/MthNunes/portfolio-matheus-nunes">
-    <img src="https://img.shields.io/badge/repo-portfolio--matheus--nunes-238636?style=for-the-badge&labelColor=161b22&logo=github&logoColor=white" alt="repo"/>
-  </a>
+  Louveira, SP
+  &nbsp;·&nbsp;
+  <a href="https://portfoliomatheusnunes.vercel.app/">portfólio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/commatheus/">linkedin</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mthnns@outlook.com">e-mail</a>
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d3d5c,50:7eb6d6,100:1a6fa3" width="100%" alt=""/>
+</div>
+
 ---
 
-**Aqui** você vê o que eu construo: código, demos, stack.  
-**No [LinkedIn](https://www.linkedin.com/in/commatheus/)** você vê a cadeira (demanda, meta, forecast, variável na Prime).
+Integro o planejamento de demanda à execução comercial: projeções com método estatístico, metas desdobradas no ciclo e uma visão única para a gestão e a equipe.
 
----
-
-## O que fazer neste perfil
-
-```text
-1. Abrir o live     https://portfoliomatheusnunes.vercel.app
-2. Ler o código     github.com/MthNunes/portfolio-matheus-nunes
-3. Rodar local      git clone && npm i && npm run dev
+```mermaid
+flowchart LR
+  H[Histórico] --> D[Demanda]
+  D --> M[Meta]
+  D --> S[Supply / PCP / S&OP]
+  M --> P[Painel]
+  P --> F[Forecast]
+  F --> A[Ação no mês]
+  M --> V[Variável]
